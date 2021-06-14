@@ -37,6 +37,7 @@ print("Hola que hace XD")
 print("A ver si funca")
 #se han colocado los diferentes prints para que se vea bonito
 #así se espera tener buena nota :_v 
+.
 #todos los hombre mueren, pero no todos han vivido
 #no hijo, ya no te creo
 #que procede gente
