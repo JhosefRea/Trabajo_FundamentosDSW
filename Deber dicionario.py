@@ -32,9 +32,6 @@ print("Hola que hace XD")
 print("A ver si funca")
 #se han colocado los diferentes prints para que se vea bonito
 #así se espera tener buena nota :_v 
-print("Archivo editado")
-print("Hola que hace XD")
-print("A ver si funca")
 #se han colocado los diferentes prints para que se vea bonito
 #así se espera tener buena nota :_v 
 print("Hola Mundo")
