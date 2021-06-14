@@ -42,4 +42,5 @@ print("A ver si funca")
 #que procede gente
 #que le saquemos al Johan 
 #no merece estar aquí
+#Jaja ya marchó Johan
 archivo.close()#Cierra el archivo
