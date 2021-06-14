@@ -39,6 +39,7 @@ print("A ver si funca")
 #así se espera tener buena nota :_v 
 print("Hola Mundo")
 print("Como estan")
+print("Prueba de funcionamiento")
 #todos los hombre mueren, pero no todos han vivido
 #no hijo, ya no te creo
 #que procede gente
