@@ -24,4 +24,7 @@ print("Esas son las palabras que hay en el archivo")
 print("Fin del comunicado")
 print("Archivo editado")
 print("Hola que hace XD")
+print("A ver si funca")
+#se han colocado los diferentes prints para que se vea bonito
+#así se espera tener buena nota :_v 
 archivo.close()#Cierra el archivo
