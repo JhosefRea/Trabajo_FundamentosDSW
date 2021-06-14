@@ -22,4 +22,5 @@ for x in dic:#realiza una navegacion en el diccionarion
     print('({},{}) '.format(x,dic.get(x)))#imprime con formato
 print("Esas son las palabras que hay en el archivo")  
 print("Fin del comunicado")
+print("Archivo editado")
 archivo.close()#Cierra el archivo
