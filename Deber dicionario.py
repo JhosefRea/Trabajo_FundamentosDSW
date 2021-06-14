@@ -23,5 +23,5 @@ for x in dic:#realiza una navegacion en el diccionarion
 print("Esas son las palabras que hay en el archivo")  
 print("Fin del comunicado")
 print("Archivo editado")
-print("")
+print("Hola que hace XD")
 archivo.close()#Cierra el archivo
