@@ -1,7 +1,7 @@
 import re
 print("Bienvenido\nHoy vamos a encontrar el numero de ocurrencias del libro 1 de Harry Potter\n")
 archivo=open('Harry.txt',encoding='utf8')#carga el archivo
-#se deberia agregar el archivo al repositorio
+
 linea=archivo.readline()
 dic={}
 while linea!="":
@@ -18,7 +18,7 @@ while linea!="":
             dic.update({palabra:1})
     linea=archivo.readline()
 print("Las palabras encontradas son:\Formato:(palabra,ocurrencias)")
-for x in dic:
+for x in dic:#realiza una navegacion en el diccionarion
     print('({},{}) '.format(x,dic.get(x)))#imprime con formato
 print("Esas son las palabras que hay en el archivo")  
 print("Fin del comunicado")
