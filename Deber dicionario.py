@@ -40,6 +40,10 @@ print("A ver si funca")
 print("Hola Mundo")
 print("Como estan")
 print("Prueba de funcionamiento")
+#prueba de como funcionan los comandos básicos
+#tener en cuneta que debe estar entre parentesis
+#No Será de tomar un traguito??
+#Segunda es todo
 #todos los hombre mueren, pero no todos han vivido
 #no hijo, ya no te creo
 #que procede gente
