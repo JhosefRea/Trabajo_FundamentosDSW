@@ -1,6 +1,7 @@
 import re
 print("Bienvenido\nHoy vamos a encontrar el numero de ocurrencias del libro 1 de Harry Potter\n")
 archivo=open('Harry.txt',encoding='utf8')#carga el archivo
+#se deberia agregar el archivo al repositorio
 linea=archivo.readline()
 dic={}
 while linea!="":
